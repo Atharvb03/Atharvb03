@@ -24,12 +24,4 @@ Final-year B.Tech CSE (AI/ML) student passionate about building full-stack web a
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Atharvb03"><img src="https://github-readme-stats.vercel.app/api?username=Atharvb03&show_icons=true&hide=prs,&count_private=true&title_color=ffffff&text_color=10b981&icon_color=ffffff&bg_color=134e4a&hide_border=true&show_icons=true" alt="Atharvb03's GitHub stats" /></a>
-
-<a href="http://www.github.com/Atharvb03"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvb03&stroke=10b981&background=134e4a&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
-
-<a href="https://github.com/Atharvb03" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvb03&langs_count=10&title_color=ffffff&text_color=10b981&icon_color=ffffff&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Atharvb03/HireLens" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvb03&repo=HireLens&title_color=ffffff&text_color=10b981&icon_color=ffffff&bg_color=134e4a&hide_border=true&locale=en" /></a><a href="https://github.com/Atharvb03/ EcoCycleHUB" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Atharvb03&repo= EcoCycleHUB&title_color=ffffff&text_color=10b981&icon_color=ffffff&bg_color=134e4a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="http://www.github.com/Atharvb03"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvb03&stroke=ef4444&background=134e4a&ring=facc15&fire=facc15&currStreakNum=ef4444&currStreakLabel=facc15&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
